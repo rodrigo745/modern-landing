@@ -5,7 +5,7 @@ export default function Header(){
         <div className="flex flex-col-reverse lg:flex lg:flex-row lg:justify-between items-center w-full mt-20">
             <div className="w-full md:w-[50%]">
                 <h2 className="text-4xl md:text-6xl font-bold text-orange-600">Construyamos algo increíble con RJQ de OpenAI</h2>
-                <p className="mt-10 text-lg text-neutral-500 md:pr-20 or-4">Aunque había una cama disponible para cualquier asistencia durante los viajes, no era agradable. No había pensamientos en absoluto que bendijeran todo ejercicio. La indulgencia era todo un cambio alegre y bullicioso en el apego. Durante años, hemos permitido a la fiesta preguntar sobre el orden.</p>
+                <p className="mt-10 text-lg text-slate-400  md:pr-20 or-4">Aunque había una cama disponible para cualquier asistencia durante los viajes, no era agradable. No había pensamientos en absoluto que bendijeran todo ejercicio. La indulgencia era todo un cambio alegre y bullicioso en el apego. Durante años, hemos permitido a la fiesta preguntar sobre el orden.</p>
                 <div className="mt-10 rounded-md">
                     <input type="text" className="p-2 rounded-l-md  w-[60%] md:w-[40%] bg-slate-700" placeholder="Ingresa tu correo"/>
                     <button className="p-2 px-4 bg-orange-600 rounded-r-md text-white">Obtener</button>
