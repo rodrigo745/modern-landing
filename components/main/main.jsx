@@ -3,7 +3,7 @@ import Esferas from "../esferas"
 export default function Main(){
     return(
         <div className="mt-20 w-full px-4 z-50">
-            <div className="bg-slate-800 p-8 py-16 lg:p-12 lg:py-24 w-full shadow-sm shadow-blue-900">
+            <div className="bg-slate-800 p-8 py-14 lg:p-12 lg:py-24 w-full shadow-sm shadow-blue-900">
                 <div className="flex flex-col lg:flex lg:flex-row lg:justify-between z-50">
                     <div className="w-[60%]">
                         <p className="border-t-4 w-14 lg:w-16 border-orange-500"></p>
