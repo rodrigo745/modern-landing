@@ -19,6 +19,12 @@ export default function Home() {
       <div className="overflow-hidden w-full h-full z-0">
         <div className="esfera3 absolute right-0 "></div>
       </div>
+      {/* Main 2 */}
+
+      {/* Main 3 */}
+
+      {/* Main 4 */}
+
     </main>
   );
 }
