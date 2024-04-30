@@ -14,5 +14,24 @@ body{
   height: 300px;
   background-color: rgba(64, 191, 250, 0.498);
   border-bottom-right-radius: 100%;
-  filter: blur(200px);
+  filter: blur(120px);
+}
+
+.esfera2{
+  width: 30vw;
+  min-width: 200px;
+  height: 300px;
+  background-color: rgba(64, 191, 250, 0.498);
+  border-radius: 100%;
+  filter: blur(120px);
+}
+.esfera3{
+  width: 70vw;
+  min-width: 200px;
+  height: 300px;
+  background-color: rgba(64, 191, 250, 0.498);
+  border-radius: 100%;
+  filter: blur(120px);
+  margin-right: 20%;
+  bottom: -98%;
 }
