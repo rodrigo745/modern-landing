@@ -9,8 +9,8 @@ export default function Home() {
       <Esferas lado="left-0 z-0"/>
       <NavBar/>      
       <Header/>
-      <Esferas lado="right-0 top-[50vh] z-0"/>
-
+      <Esferas lado="right-20 top-[40vh] z-0"/>
+      <Image src="/empresas.svg" width={600} height={200} alt="empresas" className="mt-16 md:mt-32"/>
     </main>
   );
 }
