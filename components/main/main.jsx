@@ -7,7 +7,7 @@ export default function Main(){
                 <div className="flex flex-col lg:flex lg:flex-row lg:justify-between z-50">
                     <div className="w-[60%]">
                         <p className="border-t-4 w-14 lg:w-16 border-orange-500"></p>
-                        <h4 className="text-xl lg:text-2xl mt-1 font-bold">¿Que es RJQ?</h4>
+                        <h4 className="text-xl lg:text-2xl mt-1 font-bold">¿Que es RJQ+?</h4>
                     </div>
                     <p className="text-slate-400 text-lg mt-6 lg:w-[80%] lg:mt-0">La luz de la luna se filtraba por la ventana, arrojando sombras danzantes sobre los muebles polvorientos y las cortinas desgarradas. En el centro de la habitación, un antiguo escritorio de madera se erguía como un testigo silencioso de tiempos pasados.</p>
                 </div>
